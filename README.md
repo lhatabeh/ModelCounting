@@ -1,4 +1,4 @@
-# CNF Model Counter
+# CNF and d-DNNF Model Counter
 
 A Java tool for counting the number of satisfying models of a CNF formula using two approaches:
 
